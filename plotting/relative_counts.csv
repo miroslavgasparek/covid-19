@@ -1,6 +1,6 @@
 ,No restrictions,Restrictions for 240 days,Restrictions for 50 days + above 60 isolation,Intermittent restrictions,No restrictions + Super-spreaders,Lock-down
-Relative Cumulative Infections,100.0,80.0,69.0,61.0,101.0,97.0
-Relative Cumulative Deaths,100.0,77.0,38.0,59.0,100.0,96.0
-Relative Peak Hospitalizations ,100.0,23.0,34.0,30.0,119.0,74.0
-Relative Peak ICU Demand,100.0,24.0,24.0,31.0,119.0,69.0
-Relative Peak New Infections,100.0,23.0,42.0,32.0,120.0,99.0
+Relative Cumulative Infections,100.0,67.0,64.0,33.0,102.0,81.0
+Relative Cumulative Deaths,100.0,62.0,38.0,29.0,102.0,77.0
+Relative Peak Hospitalizations ,100.0,32.0,30.0,9.0,123.0,55.0
+Relative Peak ICU Demand,100.0,31.0,22.0,8.0,123.0,54.0
+Relative Peak New Infections,100.0,32.0,37.0,11.0,123.0,55.0
