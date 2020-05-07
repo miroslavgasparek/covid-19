@@ -1,6 +1,6 @@
 ,Current Restrictions (Baseline),Current Restrictions (Decreased Household Transmissions),Current Restrictions (10x initial infections)
-Relative Cumulative Infections,100.0,59.0,95.0
-Relative Cumulative Deaths,100.0,62.0,96.0
-Relative Peak Hospitalizations ,100.0,48.0,112.0
-Relative Peak ICU Demand,100.0,48.0,112.0
-Relative Peak New Infections,100.0,48.0,113.0
+Cumulative Infections,100.0,88.0,101.0
+Cumulative Deaths,100.0,90.0,102.0
+Peak Hospitalizations ,100.0,75.0,100.0
+Peak ICU Demand,100.0,76.0,103.0
+Peak New Infections,100.0,75.0,101.0
